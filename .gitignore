@@ -42,4 +42,4 @@ testem.log
 Thumbs.db
 
 # クレデンシャル情報
-./src/environments/environment.ts
+src/environments/environment.ts
